@@ -1,6 +1,6 @@
 cask "nicotine-plus" do
-  version "3.2.7"
-  sha256 "d8dc38a8fc9dbab04cbde613c58653d863969a0ccf14e5d731d20f0326ea58a4"
+  version "3.2.9"
+  sha256 "9e44c0cb3b9987fbd2dd4037441eeef934978f763f9fb2ce637977e853da1bd2"
 
   url "https://github.com/nicotine-plus/nicotine-plus/releases/download/#{version}/macos-installer.zip",
       verified: "github.com/nicotine-plus/nicotine-plus/"

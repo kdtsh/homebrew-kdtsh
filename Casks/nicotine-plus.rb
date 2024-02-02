@@ -1,8 +1,8 @@
 cask "nicotine-plus" do
-  version "3.2.9"
-  sha256 "9e44c0cb3b9987fbd2dd4037441eeef934978f763f9fb2ce637977e853da1bd2"
+  version "3.3.0"
+  sha256 "1dbb8e3b690e8263b9e9e5469ad79cd5d6cabff77912e1bd41ad09252163465e"
 
-  url "https://github.com/nicotine-plus/nicotine-plus/releases/download/#{version}/macos-installer.zip",
+  url "https://github.com/nicotine-plus/nicotine-plus/releases/download/#{version}/macos--arm64-installer.zip",
       verified: "github.com/nicotine-plus/nicotine-plus/"
   name "Nicotine+"
   desc "Cask for graphical client for the Soulseek file sharing network"
